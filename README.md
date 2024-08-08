@@ -1,4 +1,4 @@
-## oi, estou crusando o alura e aqui vamos organizar nossos projeto
+## oi, estou cursando o alura e aqui vamos organizar nossos projeto
 
 <!--
 **Stef919/Stef919** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
